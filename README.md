@@ -1,2 +1,2 @@
 # Architektura
-gowno
+
