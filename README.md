@@ -1,2 +1,2 @@
-# architerkurachuuj
+# Architektura
 gowno
